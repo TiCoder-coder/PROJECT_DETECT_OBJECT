@@ -1,0 +1,5 @@
+.venv/
+venv/
+Python-3.13.5.tgz
+.vscode/
+vscode/

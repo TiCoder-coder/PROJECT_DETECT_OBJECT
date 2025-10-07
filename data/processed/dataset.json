@@ -1,0 +1,15 @@
+{
+  "info": {
+    "description": "Custom SAM2 Dataset",
+    "data_created": "unknow"
+  },
+  "licenses": [],
+  "images": [],
+  "annotations": [],
+  "categories": [
+    {
+      "id": 1,
+      "name": "object"
+    }
+  ]
+}
