@@ -1,0 +1,131 @@
+{
+  "total_renamed": 21,
+  "renames": [
+    {
+      "old_name": "ghế_nhựa",
+      "new_name": "plastic_chair",
+      "category": "furniture",
+      "path": "furniture\\plastic_chair"
+    },
+    {
+      "old_name": "ghế_xoay",
+      "new_name": "swivel_chair",
+      "category": "furniture",
+      "path": "furniture\\swivel_chair"
+    },
+    {
+      "old_name": "2a3de300462414e8fd1ff396bf68d60e",
+      "new_name": "kitchen_container",
+      "category": "kitchenware",
+      "path": "kitchenware\\kitchen_container"
+    },
+    {
+      "old_name": "2a96a891-b721-4423-8c54-6cdeefaf0b",
+      "new_name": "food_container",
+      "category": "kitchenware",
+      "path": "kitchenware\\food_container"
+    },
+    {
+      "old_name": "3811ae8e803a4de22dfde2a21d29b",
+      "new_name": "storage_box",
+      "category": "kitchenware",
+      "path": "kitchenware\\storage_box"
+    },
+    {
+      "old_name": "784c4cc4c6b6314d943832ca962d138a",
+      "new_name": "kitchen_tool",
+      "category": "kitchenware",
+      "path": "kitchenware\\kitchen_tool"
+    },
+    {
+      "old_name": "8a7f9db1-ffa0-496c-8ab5-e17ce7a8be",
+      "new_name": "utensil_holder",
+      "category": "kitchenware",
+      "path": "kitchenware\\utensil_holder"
+    },
+    {
+      "old_name": "96b3084ecbb426ee89602b1b",
+      "new_name": "kitchen_gadget",
+      "category": "kitchenware",
+      "path": "kitchenware\\kitchen_gadget"
+    },
+    {
+      "old_name": "bc5d40f2-0522-4f02-a82a-e990c",
+      "new_name": "container",
+      "category": "kitchenware",
+      "path": "kitchenware\\container"
+    },
+    {
+      "old_name": "cốc_nhựa",
+      "new_name": "plastic_cup",
+      "category": "kitchenware",
+      "path": "kitchenware\\plastic_cup"
+    },
+    {
+      "old_name": "cốc_nước",
+      "new_name": "water_cup",
+      "category": "kitchenware",
+      "path": "kitchenware\\water_cup"
+    },
+    {
+      "old_name": "cốc_thủy_tinh",
+      "new_name": "glass_cup",
+      "category": "kitchenware",
+      "path": "kitchenware\\glass_cup"
+    },
+    {
+      "old_name": "bút_lông",
+      "new_name": "marker_pen",
+      "category": "learning_tools",
+      "path": "learning_tools\\marker_pen"
+    },
+    {
+      "old_name": "bút_bi",
+      "new_name": "ballpoint_pen",
+      "category": "personal_belongings",
+      "path": "personal_belongings\\ballpoint_pen"
+    },
+    {
+      "old_name": "dép",
+      "new_name": "slippers",
+      "category": "personal_belongings",
+      "path": "personal_belongings\\slippers"
+    },
+    {
+      "old_name": "dép_cao_su",
+      "new_name": "rubber_slippers",
+      "category": "personal_belongings",
+      "path": "personal_belongings\\rubber_slippers"
+    },
+    {
+      "old_name": "dép_xốp",
+      "new_name": "foam_slippers",
+      "category": "personal_belongings",
+      "path": "personal_belongings\\foam_slippers"
+    },
+    {
+      "old_name": "giày",
+      "new_name": "shoes",
+      "category": "personal_belongings",
+      "path": "personal_belongings\\shoes"
+    },
+    {
+      "old_name": "giày_thể_thao",
+      "new_name": "sneakers",
+      "category": "personal_belongings",
+      "path": "personal_belongings\\sneakers"
+    },
+    {
+      "old_name": "giày_đá_banh",
+      "new_name": "soccer_shoes",
+      "category": "personal_belongings",
+      "path": "personal_belongings\\soccer_shoes"
+    },
+    {
+      "old_name": "lược",
+      "new_name": "comb",
+      "category": "personal_belongings",
+      "path": "personal_belongings\\comb"
+    }
+  ]
+}
