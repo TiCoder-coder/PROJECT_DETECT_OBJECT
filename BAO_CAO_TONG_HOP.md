@@ -1,8 +1,8 @@
-# 📊 BÁO CÁO TỔNG HỢP DATASET IKEA
+# 📊 BÁO CÁO TỔNG HỢP DATASET
 
 ## 🎯 Tổng quan Dataset
 
-Dataset này chứa **hơn 15,000 ảnh sản phẩm IKEA** được tổ chức và phân loại một cách có hệ thống theo **12 danh mục chính** với **723 loại sản phẩm** khác nhau.
+Dataset này chứa **hơn 15,000 ảnh sản phẩm** được tổ chức và phân loại một cách có hệ thống theo **12 danh mục chính** với **723 loại sản phẩm** khác nhau.
 
 ### 🗂️ Cấu trúc Dataset
 
@@ -217,8 +217,6 @@ dataset/
 
 ## 📅 Thông tin Dataset
 
-- **Ngày tạo báo cáo**: $(Get-Date -Format "dd/MM/yyyy HH:mm")
-- **Nguồn gốc**: IKEA Product Images
 - **Tổng số ảnh**: ~15,500+ ảnh sản phẩm
 - **Số danh mục**: 12 danh mục chính
 - **Số loại sản phẩm**: 723 object types
@@ -227,7 +225,7 @@ dataset/
 
 ## 🎉 Kết luận
 
-Dataset IKEA này là một **kho tài nguyên quý giá** với:
+Dataset này là một **kho tài nguyên quý giá** với:
 
 - **Quy mô lớn** và **chất lượng cao**
 - **Phân loại chi tiết** và **có hệ thống**
@@ -238,4 +236,4 @@ Dataset này phù hợp cho các dự án **Computer Vision**, **Machine Learnin
 
 ---
 
-*Báo cáo được tạo tự động từ phân tích dataset IKEA với cấu trúc thư mục có ý nghĩa và metadata đầy đủ.*
+*Báo cáo được tạo tự động từ phân tích dataset với cấu trúc thư mục có ý nghĩa và metadata đầy đủ.*
